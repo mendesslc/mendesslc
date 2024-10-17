@@ -29,7 +29,8 @@
  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+ <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+ <img width="48" height="48" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
  <img width="48" height="48" src="https://img.icons8.com/dusk/64/sql.png" alt="sql"/>
  </div>
 
@@ -37,8 +38,7 @@
 
 ### Studying in this moment:
 <div>
-<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
-<img width="48" height="48" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 </div>
 
 <div align="center">
