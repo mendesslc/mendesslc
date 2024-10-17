@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Oii,+Meu+nome+é+Lívya+Mendes;Eu+tenho+24+anos+e+amo+tecnologia;Sou+desenvolvedora+Full+Stack+graduada+em+Análise+de+Sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Oii,+me+chamo+Lívya;Tenho+24+anos+e+amo+tecnologia.;Sou+desenvolvedora+Full+Stack;Graduada+em+Análise+de+Sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mendesslc&bg_color=000000&color=ffffff&line=8a2be2&point=baabab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -27,14 +27,9 @@
  <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
  <img width="48" height="48" src="https://img.icons8.com/dusk/64/sql.png" alt="sql"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
  </div>
 
-
-
-### Studying in this moment:
-<div>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
