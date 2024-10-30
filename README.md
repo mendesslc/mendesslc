@@ -19,14 +19,14 @@
  
  ### Main skills:
  <div>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="csharp-logo"/>  
+ <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="dotnet"/>  
  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript--v1.png" alt="typescript--v1"/>
-   <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+ <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
- <img width="48" height="48" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
  <img width="48" height="48" src="https://img.icons8.com/dusk/64/sql.png" alt="sql"/>
  </div>
 
