@@ -19,7 +19,7 @@
 
 ### Sobre Mim
 - 🚀 Apaixonada por tecnologia e inovação.
-- 🎓 Graduada em Análise de Sistemase Pós-Graduada em Desenvolvimento Full Stack.
+- 🎓 Graduada em Análise de Sistemas e Pós-Graduada em Desenvolvimento Full Stack.
 - 💻 Desenvolvedora Full Stack com experiência em tecnologias modernas.
 - 📚 Sempre buscando aprender e melhorar minhas habilidades.
 
