@@ -21,7 +21,7 @@ Me chamo Lívya, tenho 25 anos e sou natural do Rio de Janeiro. Concluí a facul
             src="https://custom-icon-badges.demolab.com/github/stars/Mendesslc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/mendesslc">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
